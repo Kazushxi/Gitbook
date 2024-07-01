@@ -83,3 +83,4 @@
 * [SAO UHC](https://lightcookies-uhc.gitbook.io/klarya/mode-de-jeux/sao)
 * [RPG UHC](https://lightcookies-uhc.gitbook.io/klarya/mode-de-jeux/rpg/presentation)
 * [Mage UHC](https://lightcookies-uhc.gitbook.io/klarya/mode-de-jeux/mage)
+* [CDZ UHC](https://chevaliers-du-zodiaque-uhc.gitbook.io/chevaliers-du-zodiaque-uhc)
