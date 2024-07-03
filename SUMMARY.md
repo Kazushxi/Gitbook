@@ -8,7 +8,7 @@
 * [👺 CM UHC](https://doc.uhcworld.fr/chainsaw-man-uhc)
 * [👨‍💻 MHA UHC](https://docs.mhauhc.fr/my-hero-academia-uhc/presentation)
 * [⚔️ KH UHC](https://canfav.gitbook.io/kingdom-hearts-uhc)
-* [👹 JJK UHC](https://canfav.gitbook.io/kingdom-hearts-uhc)
+* [👹 JJK UHC](https://docs.akiramc.fr/jujutsu-kaisen/presentation)
 * [OP UHC](https://docs.onepiece-uhc.fr)
 * [Naruto UHC](https://docs.yukanmc.fr/v/narutouhc)
 * [Bleach UHC](https://memphisynannoxx.gitbook.io/bleach-uhc)
